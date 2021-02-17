@@ -6,6 +6,8 @@ namespace MyCalcLibrary
     {
         public int Sum(int x, int y)
         {
+
+            return x / y;
             return x = y;
         }
         public int Minus(int x, int y)
