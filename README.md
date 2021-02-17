@@ -15,7 +15,7 @@ int main(){
     switch (operation){
  
     case '+':
-        std::cout << "a + b = " << a + b << '\n';
+        std::cout << "a + b = " << a - b << '\n';
         break;
     case '*':
         std::cout << "a * b = " << a * b << '\n';
