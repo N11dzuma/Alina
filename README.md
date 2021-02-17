@@ -24,7 +24,8 @@ int main(){
         std::cout << "a / b = " << a / b << '\n';
         break;
     default:
-        std::cout << "Error\n";
+    
     }
+    
     return 0;
 
